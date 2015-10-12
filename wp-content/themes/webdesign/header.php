@@ -39,7 +39,7 @@ $(document).ready(function () {
 <header>
   <div class="container_12">
     <div class="grid_12">
-      <h1><a href="index.html"><img src="<?php echo get_template_directory_uri();?>/images/logo.png" alt=""></a></h1>
+        <h1><a href="<?php echo get_site_url();?>"><img src="<?php echo get_template_directory_uri();?>/images/logo.png" alt=""></a></h1>
       <div class="menu_block">
         <nav>
             <?php

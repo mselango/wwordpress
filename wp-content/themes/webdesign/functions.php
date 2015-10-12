@@ -235,3 +235,5 @@ function codex_myteam_init() {
 
 	register_post_type( 'myteam', $args );
 }
+
+include 'notes.php';

@@ -3,19 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/style.css</file>
-            <file>file:/var/www/wordpress/wp-content/themes/twentyfourteen/page-templates/contributors.php</file>
-            <file>file:/var/www/wordpress/index.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/css/style.css</file>
-            <file>file:/var/www/wordpress/wp-content/themes/twentyfourteen/style.css</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/header.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/footer.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/index.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/functions.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/portfolio.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/blankslate/home.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/aboutus.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/blankslate/header.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/blankslate/index.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/footer.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/others.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/single.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/home.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/twentyfourteen/header.php</file>
-            <file>file:/var/www/wordpress/wp-content/themes/blankslate/page.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/webdesign/home.php</file>
         </group>
     </open-files>
 </project-private>

@@ -32,7 +32,8 @@ endwhile;
 <div class="content">
   <div class="container_12">
     <div class="grid_12">
-      <h2>WELCOME TO MY SITE WHERE YOU CAN FIND<span>A RANGE OF CREATIVE HIGH-QUALITY <span class="col1">DESIGNS</span> THAT CAN HELP YOUR BUSINESS FLOURISH.</span></h2>
+        
+      <h2> <?php echo ot_get_option('welcome_text'); ?> <span class="col1">DESIGNS</span> THAT CAN HELP YOUR BUSINESS FLOURISH.</span></h2>
       <h3><span>SERVICES</span></h3>
     </div>
       <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?> 
